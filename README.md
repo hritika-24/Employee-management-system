@@ -1,4 +1,4 @@
-![Screenshot 2025-05-02 100417](https://github.com/user-attachments/assets/e3b2e4e8-e1e8-4a43-a3b7-cace10c1d1b5)Employee Management System
+Employee Management System
 Overview :
   This project is a web-based Employee Management System designed to help organizations efficiently manage employee records. 
   It allows users to add, update, delete, and search employee details while ensuring data security and accessibility.
